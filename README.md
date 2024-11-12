@@ -12,7 +12,7 @@ The repository is structured as follows:
    - Place the `calculate_reliability.R`, `compare_age_difference.R`, and `compare_gender_difference.R` files are in the same directory as `Rdata/` directory.
    
 2. **Running the Jupyter Notebook**:
-   - Open `code.ipynb` in Jupyter Notebook.
+   - Open `Code.ipynb` in Jupyter Notebook.
    - Execute the notebook step-by-step to process the data, identify hidden states, and perform data analysis and visualization.
 
 3. **Excel Integration**:
