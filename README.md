@@ -1,7 +1,7 @@
 # Observation Framework
 
 ## Project Overview
-This repository contains the execution code for our paper submitted to **Science Robotics**. The project focuses on data analysis and visualization using various datasets and aims to identify hidden states through advanced statistical methods.
+This repository contains the executable codes for our recent paper on the observation study framework. The project focuses on data analysis and visualization using various datasets and aims to identify hidden states through advanced statistical methods.
 
 ## Project Structure
 The repository is structured as follows:
